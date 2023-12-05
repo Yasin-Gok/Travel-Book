@@ -1,0 +1,2 @@
+# Travel Book
+ This program, developed using the Google Maps API, allows users to search for a location using an auto-search fragment (limited to restaurants by default). Users can view these locations on the map, select, save and delete them. The selected locations are then stored in a Room database and can be later accessed for reviewing or editing. Additionally, users can create a route to the selected location with the help of Google Maps.
