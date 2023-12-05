@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuId"
+        android:title="Add place"
+        android:icon="@drawable/baseline_bookmark_add_24"
+        android:tooltipText="Add new place for your list">
+    </item>
+
+</menu>
