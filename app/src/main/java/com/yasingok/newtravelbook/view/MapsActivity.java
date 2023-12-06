@@ -82,7 +82,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         binding.deleteButton.setVisibility(View.INVISIBLE);
 
         try{
-            Places.initialize(getApplicationContext(), "AIzaSyAFOZNhGbS12ANefPWUOo__td-Bsfmbka4");
+            Places.initialize(getApplicationContext(), "KEY");
 
             PlacesClient placesClient = Places.createClient(this);
 
